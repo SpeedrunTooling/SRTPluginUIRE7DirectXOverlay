@@ -1,1 +1,1 @@
-# SRTPluginUIRE7DirectXOverlay
+# SRTPluginUIRE3DirectXOverlay
